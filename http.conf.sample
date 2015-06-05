@@ -1,0 +1,4 @@
+; THIS IS A SAMPLE HTTP.CONF (goes in /etc/asterisk)
+[general]
+enabled=yes
+bindaddr=0.0.0.0
